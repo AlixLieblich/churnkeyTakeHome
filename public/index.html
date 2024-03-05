@@ -8,8 +8,27 @@
 <body>
     <div id="app">
         <h1>{{ message }}</h1>
+	<h2>{{ cancelMessage }} </h2>
+        <button id="churnkeyButton">Cancel Subscription</button>
     </div>
+
     <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
     <script src="main.js"></script>
+
+    <!-- Churnkey Embed Code -->
+    <script>
+        !function(){
+            if (!window.churnkey || !window.churnkey.created) {
+                window.churnkey = { created: true };
+                const a = document.createElement('script');
+                a.src = 'https://assets.churnkey.co/js/app.js?appId=8rfgnmjy5';
+                a.async = true;
+                const b = document.getElementsByTagName('script')[0];
+                b.parentNode.insertBefore(a, b);
+            }
+        }();
+    </script>
+    <!-- End Churnkey Embed Code -->
 </body>
 </html>
+
