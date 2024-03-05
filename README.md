@@ -7,6 +7,10 @@ git clone [https://github.com/your-username/your-repository.git](https://github.
 cd churnkeyTakeHome
 npm install
 npm start
+
+## 💻 Technologies used:
+Vue.js, Node.js, HTML
+
 ## 📸 The webapp with cancellation button
 ![Webapp](screenshots/webapp.png)
 
