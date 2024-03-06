@@ -2,11 +2,12 @@
 
 Create a simple webapp with a button which, when clicked, pops up the Churnkey cancellation modal.
 
-## Getting Started
-git clone [https://github.com/your-username/your-repository.git](https://github.com/AlixLieblich/churnkeyTakeHome)
-cd churnkeyTakeHome
-npm install
-npm start
+## 🌟 Getting Started
+1. git clone https://github.com/AlixLieblich/churnkeyTakeHome
+2. cd churnkeyTakeHome
+3. npm install express
+4. npm install vue
+5. node server.js
 
 ## 💻 Technologies used:
 Vue.js, Node.js, HTML
