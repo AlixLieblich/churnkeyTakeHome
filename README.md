@@ -1,4 +1,4 @@
-# 🔑: Churnkey Take Home :sparkles:
+# 🔑 Churnkey Take Home :sparkles:
 
 Create a simple webapp with a button which, when clicked, pops up the Churnkey cancellation modal.
 
@@ -13,7 +13,7 @@ Create a simple webapp with a button which, when clicked, pops up the Churnkey c
 Vue.js, Node.js, HTML
 
 ## Creating a subscription to the Weekly Wizard Wheeze and then cancelling it
-![Wheeze Cancell](screenshots/wheezeCancel.mov)
+![Wheeze Cancell](screenshots/wheeze480.mov)
 
 ## 📸 Clicking the cancel button and popping up the modal
 ![ModalPopul](screenshots/modal.gif)
