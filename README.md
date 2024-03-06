@@ -13,7 +13,7 @@ Create a simple webapp with a button which, when clicked, pops up the Churnkey c
 Vue.js, Node.js, HTML
 
 ## Creating a subscription to the Weekly Wizard Wheeze and then cancelling it
-![Wheeze Cancell](screenshots/wheeze480.mov)
+![Wheeze Cancel](screenshots/wheezeCancel480p.mov)
 
 ## 📸 Clicking the cancel button and popping up the modal
 ![ModalPopul](screenshots/modal.gif)
